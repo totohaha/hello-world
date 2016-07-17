@@ -2,4 +2,8 @@ add a line in test.txt
 
 add another line in test.txt
 
+<<<<<<< HEAD
 add new line from local
+=======
+add 3rd line from github
+>>>>>>> 89cdd556de8cbd3547f1dffec2a108002133c6d1
